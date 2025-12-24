@@ -1,4 +1,4 @@
-## This repository contains the code for studying the lessons of [Updraft/Cyfrin Foundry Fundamentals - Foundry Fund Me section](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me)
+## This repository contains the code for studying the lessons of [Updraft/Cyfrin Foundry Fundamentals - Foundry Fund Me section](https://updraft.cyfrin.io/courses/foundry)
 
 ## Foundry
 
